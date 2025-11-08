@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: ArmyBarber Notes
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+
+Formerly [this guy](https://armybarber.github.io/kb/) 
